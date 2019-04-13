@@ -18,27 +18,36 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
-  description = """
+  title = "Research Intern"
+  company = "IRIT"
+  company_url = "https://www.irit.fr/"
+  location = "Toulouse, France"
+  date_start = "2019-04-01"
+  date_end = "2019-07-31"
+  description = """ Use of Recurrent Neural Network for network intrusion detection.</br>
   Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+
+  * Reproducing an article results in machine learning 
+  * Implementing LSTM and GRU machine learning algorithms 
+  * Using python, tensorflow, pandas, etc. for machine learning
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Summer Intern"
+  company = "FRAMESPA Laboratory"
+  company_url = "https://framespa.univ-tlse2.fr/"
+  location = "Toulouse, France"
+  date_start = "2017-07-10"
+  date_end = "2017-07-20"
+  description = """Database integrity checking & SQL procedures on FileMaker."""
+
+  [[experience]]
+  title = "Software developer Intern"
+  company = "SCLE SFE"
+  company_url = "http://www.scle-sfe.fr/"
+  location = "Toulouse, France"
+  date_start = "2017-04-01"
+  date_end = "2017-06-15"
+  description = """Python development, XML/BINARY parser and converter."""
 
 +++
