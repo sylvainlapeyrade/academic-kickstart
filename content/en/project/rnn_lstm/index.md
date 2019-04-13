@@ -6,11 +6,11 @@ title = "Recurrent Neural Network : LSTM"
 date = 2019-04-01T00:00:00
 
 # Project summary to display on homepage.
-summary = "Use of Recurrent Neural Network for network intrusion detection."
+summary = "Use of RNN with Long Short-Term Memory for network intrusion detection."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["machine-learning", "deep-learning", "LSTM"]
+tags = ["Machine learning", "Development"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = "https://github.com/sylvainlapeyrade/rnn_ltsm_kdd99"
