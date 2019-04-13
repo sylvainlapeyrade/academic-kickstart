@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
-title = "Projects"
-subtitle = ""
+title = "Projets principaux"
+subtitle = "Voir mon [GitHub](https://github.com/sylvainlapeyrade/) pour plus de projets."
 
 [content]
   # Page type to display. E.g. project.
@@ -22,16 +22,20 @@ subtitle = ""
   filter_default = 0
   
   [[content.filter_button]]
-    name = "All"
+    name = "Tous"
     tag = "*"
   
   [[content.filter_button]]
-    name = "Deep Learning"
-    tag = "Deep Learning"
+    name = "Machine Learning"
+    tag = "Machine learning"
   
   [[content.filter_button]]
-    name = "Other"
-    tag = "Demo"
+    name = "Web"
+    tag = "Web"
+
+  [[content.filter_button]]
+    name = "Développement"
+    tag = "Development"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

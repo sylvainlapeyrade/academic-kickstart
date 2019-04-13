@@ -48,6 +48,6 @@ date_format = "Jan 2006"
   location = "Toulouse, France"
   date_start = "2017-04-01"
   date_end = "2017-06-15"
-  description = """Python development, XML/BINARY parser and converter."""
+  description = """Python development, XML/Binary parser and converter."""
 
 +++

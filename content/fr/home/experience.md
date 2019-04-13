@@ -18,27 +18,36 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  title = "Stagiaire en recherche"
+  company = "IRIT"
+  company_url = "https://www.irit.fr/"
+  location = "Toulouse, France"
+  date_start = "2019-04-01"
+  date_end = "2019-07-31"
+  description = """ Usage des Recurrent Neural Network pour la détection d'intrusion réseau.</br>
+  Responsabilitées incluant de:
+
+  * Reproduire des résultats d'articles de machine learning
+  * Implémenter les algorithmes d'apprentissage LSTM et GRU 
+  * Utiliser python, tensorflow, pandas, etc. pour le machine learning
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Stage été"
+  company = "FRAMESPA Laboratory"
+  company_url = "https://framespa.univ-tlse2.fr/"
+  location = "Toulouse, France"
+  date_start = "2017-07-10"
+  date_end = "2017-07-20"
+  description = """Vérification de l'intégrité de BDDs & procedures SQL sur FileMaker."""
+
+  [[experience]]
+  title = "Stagiaire développeur logiciel"
+  company = "SCLE SFE"
+  company_url = "http://www.scle-sfe.fr/"
+  location = "Toulouse, France"
+  date_start = "2017-04-01"
+  date_end = "2017-06-15"
+  description = """Dévelopement Python, XML/Binaire analyser et convertisseur."""
 
 +++

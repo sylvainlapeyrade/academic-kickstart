@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
 title = "Featured projects"
-subtitle = ""
+subtitle = "See my [GitHub](https://github.com/sylvainlapeyrade/) for more projects."
 
 [content]
   # Page type to display. E.g. project.
