@@ -9,7 +9,8 @@
 
 [fr]
   languageCode = "fr-fr"
-  contentDir = "content/fr"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
+  contentDir = "content/fr"
+  title = "Sylvain Lapeyrade"
 
 # Uncomment the lines below to configure your website in a second language.
 #[zh]
