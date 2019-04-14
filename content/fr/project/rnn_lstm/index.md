@@ -1,12 +1,12 @@
 +++
 # Project title.
-title = "Recurrent Neural Network : LSTM"
+title = "RNN : LSTM"
 
 # Date this page was created.
 date = 2019-04-01T00:00:00
 
 # Project summary to display on homepage.
-summary = "Usage des RNN et Long Short-Term Memory pour un système de détection d'intrusion réseau.."
+summary = "Usage des Recurrent Neural Networks et Long Short-Term Memory pour la détection d'intrusion réseau."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
