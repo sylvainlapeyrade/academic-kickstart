@@ -13,13 +13,13 @@ summary = "Usage des Recurrent Neural Networks et Long Short-Term Memory pour la
 tags = ["Machine learning", "Development"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://github.com/sylvainlapeyrade/rnn_ltsm_kdd99"
+external_link = "https://github.com/sylvainlapeyrade/LSTM_KDD99_Keras"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
-  caption = "Aperçu de LSTM pris sur le blog: Colah."
+  caption = "Aperçu d'une cellule LSTM."
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
