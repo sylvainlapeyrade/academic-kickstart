@@ -21,9 +21,9 @@ subtitle = ""
   description = "90%"
   
 [[feature]]
-  icon = "java"
-  icon_pack = "fab"
-  name = "Java"
+  icon = "Machine Learning"
+  icon_pack = "fas"
+  name = "laptop-code"
   description = "80%"  
   
 [[feature]]

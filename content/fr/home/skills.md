@@ -21,10 +21,10 @@ subtitle = ""
   description = "90%"
   
 [[feature]]
-  icon = "java"
-  icon_pack = "fab"
-  name = "Java"
-  description = "80%"  
+  icon = "Machine Learning"
+  icon_pack = "fas"
+  name = "laptop-code"
+  description = "80%"   
   
 [[feature]]
   icon = "database"
