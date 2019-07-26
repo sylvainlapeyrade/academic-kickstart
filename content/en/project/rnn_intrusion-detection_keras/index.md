@@ -1,25 +1,25 @@
 +++
 # Project title.
-title = "RNN : LSTM"
+title = "RNN Intrusion Detection Keras"
 
 # Date this page was created.
 date = 2019-04-01T00:00:00
 
 # Project summary to display on homepage.
-summary = "Usage des Recurrent Neural Networks et Long Short-Term Memory pour la détection d'intrusion réseau."
+summary = "A Recurrent Neural Networks implementation using Keras for network intrusion detection."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
 tags = ["Machine learning", "Development"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://github.com/sylvainlapeyrade/LSTM_KDD99_Keras"
+external_link = "https://github.com/sylvainlapeyrade/RNN_Intrusion-Detection_Keras"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
-  caption = "Aperçu d'une cellule LSTM."
+  caption = "An LSTM cell "
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
