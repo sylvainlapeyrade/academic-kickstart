@@ -14,7 +14,7 @@ role = "Étudiant Master 2 à l'UPSSITECH & Actuellement en Erasmus"
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
 organizations = [ { name = "UPSSITECH", url = "https://www.upssitech.eu/" },
- { name = "IRIT", url = "https://www.irit.fr/" } ]
+ { name = "LINKÖPING", url = "https://www.liu.se/" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "Passionné de High-Tech et d'IA."
