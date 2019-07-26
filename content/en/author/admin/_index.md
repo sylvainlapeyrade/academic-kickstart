@@ -9,7 +9,7 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "MSc1 Student at UPSSITECH and Intern at IRIT."
+role = "MSc2 Student at UPSSITECH & Currently Erasmus Student."
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -35,12 +35,17 @@ user_groups = ["Students", "Researchers"]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "MSc1 Computer science, networks and telecommunications"
+  course = "Erasmus Semester Computer Science"
+  institution = "Linköping Universitet, Sweden"
+  year = 2019
+
+[[education.courses]]
+  course = "MSc2 Computer Science, Networks & Telecommunications"
   institution = "UPSSITECH, Toulouse, FRA"
   year = 2019
 
 [[education.courses]]
-  course = "DipHE Computer science"
+  course = "DipHE Computer Science"
   institution = "IUT Paul Sabatier, Toulouse, FRA"
   year = 2017
 

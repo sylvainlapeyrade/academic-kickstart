@@ -9,7 +9,7 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Étudiant Master 1 à l'UPSSITECH et stagiaire à l'IRIT"
+role = "Étudiant Master 2 à l'UPSSITECH & Actuellement en Erasmus"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -34,6 +34,11 @@ interests = [
 user_groups = ["Students", "Researchers"]
 
 # List qualifications (such as academic degrees)
+[[education.courses]]
+  course = "Semestre Erasmus Informatique"
+  institution = "Linköping Universitet, Suède"
+  year = 2019
+
 [[education.courses]]
   course = "M1 Ingénieur Systèmes Télécommunications Réseaux Informatique"
   institution = "UPSSITECH, Toulouse"
