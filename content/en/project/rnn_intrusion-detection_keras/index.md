@@ -19,7 +19,7 @@ external_link = "https://github.com/sylvainlapeyrade/RNN_Intrusion-Detection_Ker
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
-  caption = "An LSTM cell "
+  caption = "Logo Keras & Tensorflow."
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight

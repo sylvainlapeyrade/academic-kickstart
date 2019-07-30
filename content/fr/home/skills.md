@@ -21,15 +21,15 @@ subtitle = ""
   description = "90%"
   
 [[feature]]
-  icon = "Machine Learning"
+  icon = "laptop-code"
   icon_pack = "fas"
-  name = "laptop-code"
-  description = "80%"   
+  name = "Machine Learning"
+  description = "80%"  
   
 [[feature]]
   icon = "database"
   icon_pack = "fas"
   name = "Base de données"
-  description = "80%"
+  description = "80%" 
 
 +++
