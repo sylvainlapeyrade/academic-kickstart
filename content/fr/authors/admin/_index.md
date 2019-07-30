@@ -40,7 +40,7 @@ user_groups = ["Students", "Researchers"]
   year = 2019
 
 [[education.courses]]
-  course = "M1 Ingénieur Systèmes Télécommunications Réseaux Informatique"
+  course = "M2 Ingénieur Systèmes Télécommunications Réseaux Informatique"
   institution = "UPSSITECH, Toulouse"
   year = 2019
 
