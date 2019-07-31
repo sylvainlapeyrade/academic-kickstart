@@ -13,7 +13,7 @@ summary = "Usage de l'Academic theme pour Hugo afin de générer un site web."
 tags = ["Web", "Hugo", "academic theme"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://github.com/sylvainlapeyrade/personal_site_content"
+external_link = "https://github.com/sylvainlapeyrade/academic_website"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
