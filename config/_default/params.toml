@@ -3,13 +3,13 @@
 
 # Color theme.
 #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`.
-color_theme = "dark"
+theme = "dark"
 # Enable users to switch between day and night mode?
 day_night = true
 
 # Font style.
-#   Choose from `default`, `classic`, or `playfair`.
-font = "default"
+#   Choose from `Minimal`, `classic`, or `playfair`.
+font = ""
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
 description = "Personal website to describe my projects."
@@ -52,7 +52,11 @@ time_format = "15:04"
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "sylvain.lapeyrade@hotmail.fr"
 phone = ""
-address = "Toulouse, FRANCE"
+#address = {street = "450 Serra Mall", city = "Stanford", region = "CA", postcode = "94305", country = "United States", country_code = "US"}
+
+# Geographic coordinates
+# To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
+coordinates = {latitude = "43.560584", longitude = "1.469418"}
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 #office_hours = """Monday 10:00 to 13:00<br>
@@ -70,27 +74,6 @@ contact_links = [
 # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
 # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]
-
-# Display a map.
-# To show your address on a map in the contact widget, you need to enter your latitude, longitude and choose
-# a map provider below.
-# To use Google Maps, set `map = 1` and enter your API key that can be obtained here:
-#   https://developers.google.com/maps/documentation/javascript/get-api-key
-# To use OpenStreetMap tiles, set `map = 2`.
-# To use OpenStreetMap on a high traffic site, set `map = 3` and enter your API key that can be obtained here:
-#   https://www.mapbox.com/studio/account/tokens
-# To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-#
-# Map provider:
-#   0: No map
-#   1: Google Maps
-#   2: OpenStreetMap (Mapnik)
-#   3: OpenStreetMap (Mapbox)
-map = 2
-map_api_key = "pk.eyJ1Ijoic2lzZ2ciLCJhIjoiY2p1OHg5ZWx6MjJ5aDQ0bGxmeXo1OWNqOSJ9.MHTJxz4E2NiY4LcQG4bjcg"
-latitude = "43.560584"
-longitude = "1.469418"
-zoom = 15
 
 ############################
 ## Plugins                ##
@@ -175,3 +158,23 @@ sharing = true
   [comments.disqus]
     shortname = ""  # Paste the shortname from your Disqus dashboard.
     show_count = true  # Show comment count in page header? (true/false)
+
+# Map
+[map]
+  # To show your address on a map in the Contact widget, enter your latitude and longitude (above)
+  # and choose a map provider below.
+  #
+  # To use Google Maps, set `engine` to 1 and enter your API key that can be obtained here:
+  #   https://developers.google.com/maps/documentation/javascript/get-api-key
+  # To use OpenStreetMap tiles, set `engine` to 2.
+  # To use OpenStreetMap on a high traffic site, set `engine` to 3 and enter your API key that can be obtained here:
+  #   https://www.mapbox.com/studio/account/tokens
+  #
+  # Map provider:
+  #   0: No map
+  #   1: Google Maps
+  #   2: OpenStreetMap (Mapnik)
+  #   3: OpenStreetMap (Mapbox)
+  engine = 2
+  map_api_key = "pk.eyJ1Ijoic2lzZ2ciLCJhIjoiY2p1OHg5ZWx6MjJ5aDQ0bGxmeXo1OWNqOSJ9.MHTJxz4E2NiY4LcQG4bjcg"
+  zoom = 15
