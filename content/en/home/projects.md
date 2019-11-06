@@ -37,6 +37,10 @@ subtitle = "See my [GitHub](https://github.com/sylvainlapeyrade/) for more proje
     name = "Development"
     tag = "Development"
 
+  [[content.filter_button]]
+  name = "University"
+  tag = "School"
+
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "2"

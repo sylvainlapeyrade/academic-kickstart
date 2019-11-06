@@ -37,6 +37,10 @@ subtitle = "Voir mon [GitHub](https://github.com/sylvainlapeyrade/) pour plus de
     name = "Développement"
     tag = "Development"
 
+  [[content.filter_button]]
+  name = "Université"
+  tag = "School"
+
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "2"
