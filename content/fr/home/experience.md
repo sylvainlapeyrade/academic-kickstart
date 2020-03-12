@@ -19,13 +19,26 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Stagiaire en recherche"
+  company = "NII"
+  company_url = "https://www.nii.ac.jp/en/"
+  location = "Tokyo, Japon"
+  date_start = "2020-03-05"
+  date_end = "2020-08-07"
+  description = """ Machine Learning sur des données réseaux.</br>
+
+  * Prédire le trafic 
+  * Détecter des anomalies
+  """
+
+[[experience]]
+  title = "Stagiaire en recherche"
   company = "IRIT"
   company_url = "https://www.irit.fr/"
   location = "Toulouse, France"
   date_start = "2019-04-01"
   date_end = "2019-07-31"
   description = """ Usage des Recurrent Neural Network pour la détection d'intrusion réseau.</br>
-  Responsabilitées incluant de:
+
 
   * Reproduire des résultats d'articles de machine learning
   * Implémenter des algorithmes d’apprentissage RNN: LSTM, GRU...
@@ -34,7 +47,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Stage été"
-  company = "FRAMESPA Laboratory"
+  company = "FRAMESPA"
   company_url = "https://framespa.univ-tlse2.fr/"
   location = "Toulouse, France"
   date_start = "2017-07-10"

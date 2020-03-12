@@ -29,7 +29,7 @@ subtitle = ""
 [[feature]]
   icon = "database"
   icon_pack = "fas"
-  name = "Base de données"
+  name = "Data Science"
   description = "80%" 
 
 +++

@@ -17,6 +17,20 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "Research Intern"
+  company = "NII"
+  company_url = "https://www.nii.ac.jp/en/"
+  location = "Tokyo, Japan"
+  date_start = "2020-03-05"
+  date_end = "2020-08-07"
+  description = """ Machine Learning on network data:.</br>
+
+  * Predicting traffic 
+  * Detecting anomalies
+  """
+
 [[experience]]
   title = "Research Intern"
   company = "IRIT"
@@ -25,7 +39,6 @@ date_format = "Jan 2006"
   date_start = "2019-04-01"
   date_end = "2019-07-31"
   description = """ Use of Recurrent Neural Network for network intrusion detection.</br>
-  Responsibilities include:
 
   * Reproducing an article results in machine learning 
   * Implementing RNN machine learning algorithms (LSTM, GRU...) 
@@ -33,7 +46,7 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Summer Intern"
+  title = "Intern"
   company = "FRAMESPA Laboratory"
   company_url = "https://framespa.univ-tlse2.fr/"
   location = "Toulouse, France"

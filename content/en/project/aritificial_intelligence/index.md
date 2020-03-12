@@ -6,7 +6,7 @@ title = "Artificial Intelligence"
 date = 2019-10-10T00:00:00
 
 # Project summary to display on homepage.
-summary = "Erasmus labs where I implemented solutions for aritificial intelligence problems."
+summary = "Erasmus labs where I implemented AI paradigms such as Intelligent Agents, Search, Planning, Bayesian Networks, Reinforcement and Deep Learning."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

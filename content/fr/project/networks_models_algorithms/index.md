@@ -1,19 +1,19 @@
 +++
 # Project title.
-title = "Intelligence Artificielle"
+title = "Réseaux Modèles et Algorithmes"
 
 # Date this page was created.
-date = 2019-10-10T00:00:00
+date = 2020-03-12T00:00:00
 
 # Project summary to display on homepage.
-summary = "Projets Erasmus où j'ai implémenté des paradigmes d'IA tel que d'Agents Intelligents, de Recherche, Plannification, Réseaux Bayesien, Apprentissage Profond et par Renforcement."
+summary = "Projets Erasmus où j'ai implémenté des systèmes de sciences des réseaux notamment des systèmes de classification et de recommandation."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
 tags = ["School", "Development", "Machine learning"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://github.com/sylvainlapeyrade/TDDC17-Artificial-Intelligence_Labs"
+external_link = "https://github.com/sylvainlapeyrade/TSKS11-Networks_Models_Algorithms_Applications_Labs"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 

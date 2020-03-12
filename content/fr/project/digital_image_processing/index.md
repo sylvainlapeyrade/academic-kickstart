@@ -6,7 +6,7 @@ title = "Traitement d'image numérique"
 date = 2019-10-10T00:00:00
 
 # Project summary to display on homepage.
-summary = "Projets Erasmus où j'ai implémenté des solutions de traitement d'image."
+summary = "Projets Erasmus où j'ai implémenté des méthodes de traitement d'image populaires."
 
 
 # Tags: can be used for filtering projects.

@@ -6,7 +6,7 @@ title = "Digital Image Processing"
 date = 2019-10-10T00:00:00
 
 # Project summary to display on homepage.
-summary = "Erasmus labs where I implemented solutions for digital image processing problems."
+summary = "Erasmus labs where I implemented popular image processing methods."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

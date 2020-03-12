@@ -9,15 +9,15 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "MSc2 Student at UPSSITECH & Currently Erasmus Student."
+role = "MSc2 Student at UPSSITECH & Currently Intern at NII."
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
 organizations = [ { name = "UPSSITECH", url = "https://www.upssitech.eu/" },
- { name = "LINKÖPING", url = "https://www.liu.se/" } ]
+ { name = "NII", url = "https://www.nii.ac.jp/en/" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "High-Tech and AI Enthusiast."
+bio = "Data Scientist, AI and High Tech Enthusiast."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
@@ -26,7 +26,7 @@ email = ""
 interests = [
   "Artificial Intelligence",
   "Machine Learning",
-  "High-Tech"
+  "Game Theory"
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -35,13 +35,13 @@ user_groups = ["Students", "Researchers"]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "Erasmus Semester Computer Science"
-  institution = "Linköping Universitet, Sweden"
-  year = 2019
-
-[[education.courses]]
   course = "MSc2 Computer Science, Networks & Telecommunications"
   institution = "UPSSITECH, Toulouse, FRA"
+  year = 2020
+
+[[education.courses]]
+  course = "Erasmus Semester Computer Science"
+  institution = "Linköping Universitet, Sweden"
   year = 2019
 
 [[education.courses]]
@@ -85,8 +85,8 @@ user_groups = ["Students", "Researchers"]
   link = "https://github.com/sylvainlapeyrade"
 
 +++
-High-Tech enthusiast.
-<br>I am deeply interested in artificial intelligence and machine learning.
+Data Scientist, AI and High Tech Enthusiast.
+<br><br>I am deeply interested in artificial intelligence, machine learning and Game Theory.
 <br>I undertake many projects related to these fields.
 
 <!-- Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.

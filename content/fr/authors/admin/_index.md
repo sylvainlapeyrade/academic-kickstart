@@ -9,15 +9,15 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Étudiant Master 2 à l'UPSSITECH & Actuellement en Erasmus"
+role = "Étudiant Master 2 à l'UPSSITECH & Actuellement Stagiaire au NII"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
 organizations = [ { name = "UPSSITECH", url = "https://www.upssitech.eu/" },
- { name = "LINKÖPING", url = "https://www.liu.se/" } ]
+ { name = "NII", url = "https://www.nii.ac.jp/en/" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Passionné de High-Tech et d'IA."
+bio = "Passionné de Data Science, d'IA et d'High-Tech."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
@@ -26,7 +26,7 @@ email = ""
 interests = [
   "Intelligence Artificielle",
   "Machine Learning",
-  "High-Tech"
+  "Théorie des Jeux"
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -35,13 +35,13 @@ user_groups = ["Students", "Researchers"]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "Semestre Erasmus Informatique"
-  institution = "Linköping Universitet, Suède"
-  year = 2019
+  course = "M2 Ingénieur Systèmes de Télécommunications et Réseaux Informatique"
+  institution = "UPSSITECH, Toulouse"
+  year = 2020
 
 [[education.courses]]
-  course = "M2 Ingénieur Systèmes Télécommunications Réseaux Informatique"
-  institution = "UPSSITECH, Toulouse"
+  course = "Semestre Erasmus Informatique"
+  institution = "Linköping Universitet, Suède"
   year = 2019
 
 [[education.courses]]
@@ -86,8 +86,8 @@ user_groups = ["Students", "Researchers"]
 
 
 +++
-Passionné par l'high-tech.
-<br>Profondément intéressé par l'intelligence artificielle et le machine learning.
+Passionné de Data Science, d'IA et d'High-Tech.
+<br><br>Profondément intéressé par l'intelligence artificielle et le machine learning.
 <br>J'entreprends de nombreux projets liés à ces domaines.
 
 <!-- Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
