@@ -25,10 +25,10 @@ date_format = "Jan 2006"
   location = "Tokyo, Japan"
   date_start = "2020-03-05"
   date_end = "2020-08-07"
-  description = """ Machine Learning on network data:.</br>
+  description = """ Machine Learning on DNS Data::.</br>
 
-  * Predicting traffic 
-  * Detecting anomalies
+  * DNS data mining and analysis 
+  * DNS TTLs prediction
   """
 
 [[experience]]

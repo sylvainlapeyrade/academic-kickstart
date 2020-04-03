@@ -24,11 +24,13 @@ date_format = "Jan 2006"
   location = "Tokyo, Japon"
   date_start = "2020-03-05"
   date_end = "2020-08-07"
-  description = """ Machine Learning sur des données réseaux.</br>
+  description = """ Machine Learning sur des données DNS.</br>
 
-  * Prédire le trafic 
-  * Détecter des anomalies
+  * Minage et analyse données DNS
+  * Prédiction des TTLs des DNS
   """
+
+
 
 [[experience]]
   title = "Stagiaire en recherche"
