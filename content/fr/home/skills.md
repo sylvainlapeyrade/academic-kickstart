@@ -15,21 +15,21 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "python"
-  icon_pack = "fab"
-  name = "Python"
-  description = "90%"
-  
+  icon = "database"
+  icon_pack = "fas"
+  name = "Data Science"
+  description = ""
+
 [[feature]]
   icon = "laptop-code"
   icon_pack = "fas"
   name = "Machine Learning"
-  description = "80%"  
-  
+  description = ""  
+
 [[feature]]
-  icon = "database"
-  icon_pack = "fas"
-  name = "Data Science"
-  description = "80%" 
+  icon = "python"
+  icon_pack = "fab"
+  name = "Programmation"
+  description = ""
 
 +++
