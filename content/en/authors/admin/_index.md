@@ -25,7 +25,7 @@ email = ""
 # List (academic) interests or hobbies
 interests = [
   "Artificial Intelligence",
-  "Machine Learning",
+  "Multiagent Systems",
   "Game Theory"
 ]
 
@@ -86,7 +86,7 @@ user_groups = ["Students", "Researchers"]
 
 +++
 Data Scientist, AI and High Tech Enthusiast.
-<br><br>I am deeply interested in artificial intelligence, machine learning and Game Theory.
+<br><br>I am deeply interested in artificial intelligence, multiagent systems and Game Theory.
 <br>I undertake many projects related to these fields.
 
 <!-- Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.

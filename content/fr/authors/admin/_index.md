@@ -25,7 +25,7 @@ email = ""
 # List (academic) interests or hobbies
 interests = [
   "Intelligence Artificielle",
-  "Machine Learning",
+  "Systèmes Multi-Agents",
   "Théorie des Jeux"
 ]
 

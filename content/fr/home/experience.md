@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Tokyo, Japon"
   date_start = "2020-03-05"
   date_end = "2020-08-07"
-  description = """ Machine Learning sur des données DNS.</br>
+  description = """ Machine Learning sur des données DNS:</br>
 
   * Minage et analyse données DNS
   * Prédiction des TTLs des DNS
@@ -39,7 +39,7 @@ date_format = "Jan 2006"
   location = "Toulouse, France"
   date_start = "2019-04-01"
   date_end = "2019-07-31"
-  description = """ Usage des Recurrent Neural Network pour la détection d'intrusion réseau.</br>
+  description = """ Usage des Recurrent Neural Network pour la détection d'intrusion réseau:</br>
 
 
   * Reproduire des résultats d'articles de machine learning
